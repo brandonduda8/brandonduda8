@@ -17,7 +17,6 @@ Development A.A.S. at College of DuPage.
 | [pantheon-launcher](https://github.com/brandonduda8/pantheon-launcher) | Custom Android home screen in Kotlin and Compose with an animated canvas, an assignable app dock, and a searchable drawer. CI builds a signed APK and runs it on an Android emulator on every push to main. |
 | [phoenix-forge](https://github.com/brandonduda8/phoenix-forge) | Standard-library-only Python ReAct agent harness with 43 tools. Approvals, file jails and command blocklists are enforced in code. |
 | [forge-f1-audit-demo](https://github.com/brandonduda8/forge-f1-audit-demo) | Small Python web app that measures a business homepage against 26 checks and produces a scored PDF report. |
-| [Genesis-os](https://github.com/brandonduda8/Genesis-os) | Monorepo for my multi-agent system, including a SQLite job server (53 tests), a training-provider CLI, and dataset builders. |
 | [genesis-hq](https://github.com/brandonduda8/genesis-hq) | Codespaces dev-box config and scripts that send work orders to several AI coding-agent CLIs. |
 
 ## Contact
